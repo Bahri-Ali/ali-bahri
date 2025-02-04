@@ -34,12 +34,12 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenzouzou&rank_icon=percentile&show_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bahri-Ali&rank_icon=percentile&show_icons=true&theme=holi)
 
 ## 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenzouzou&layout=compact&langs_count=10&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahri-Ali&layout=compact&langs_count=10&theme=holi)
 
 ## ⏰ WakaTime Stats
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassenzouzou1&layout=compact&theme=holi)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bahri-Ali1&layout=compact&theme=holi)
